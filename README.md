@@ -1,4 +1,4 @@
-### Hi, I'm I'm happy you stopped by 👋
+### Hi, I'm happy you stopped by 👋
 
 
 <!--
