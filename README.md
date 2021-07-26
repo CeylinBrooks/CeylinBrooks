@@ -1,4 +1,4 @@
-### Hi, I'm happy you stopped by 👋
+### Hi, I'm I'm happy you stopped by 👋
 
 
 <!--
@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building projects with JavaScript and React.
+- 🌱 I’m currently learning more about the MERN Stack.
+- 📫 How to reach me:(LinkedIn)[https://www.linkedin.com/in/ceylinbrooks/]
+- 😄 Pronouns: She/Her
