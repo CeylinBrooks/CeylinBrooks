@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building projects with JavaScript and React.
 - 🌱 I’m currently learning more about the MERN Stack.
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/ceylinbrooks/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ceylinbrooks/)
 - 😄 Pronouns: She/Her
